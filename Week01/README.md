@@ -1,6 +1,6 @@
 # Week 01
 
-Codeforces 기초 문제를 풀며 C++의 기본 문법과 정렬을 활용한 문제 해결 방법을 연습했습니다.
+Codeforces 기초 문제를 풀며 시간 복잡도, 정렬, 구현과 C++ 기본 문법을 연습했습니다.
 
 ## 문제 목록
 
@@ -8,10 +8,10 @@ Codeforces 기초 문제를 풀며 C++의 기본 문법과 정렬을 활용한 �
 | --- | --- | --- |
 | [4A - Watermelon](https://codeforces.com/problemset/problem/4/A) | 조건문, 짝수 판별 | `O(1)` |
 | [230A - Dragons](https://codeforces.com/problemset/problem/230/A) | 그리디, 정렬, `vector<pair<int, int>>` | `O(n log n)` |
-| [231A - Team](https://codeforces.com/problemset/problem/231/A) | 반복문, 누적 합, 카운팅 | `O(n)` |
+| [231A - Team](https://codeforces.com/problemset/problem/231/A) | 반복문, 조건문, 카운팅 | `O(n)` |
 | [282A - Bit++](https://codeforces.com/problemset/problem/282/A) | 문자열 비교, 증감 연산 | `O(n)` |
 | [339A - Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 문자열 순회, 문자 필터링, 정렬 | `O(n log n)` |
-| [405A - Gravity Flip](https://codeforces.com/problemset/problem/405/A) | 배열 정렬, 시뮬레이션 | `O(n log n)` |
+| [405A - Gravity Flip](https://codeforces.com/problemset/problem/405/A) | 정렬, 구현 | `O(n log n)` |
 
 ## 문제별 정리
 
